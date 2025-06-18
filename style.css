@@ -147,6 +147,7 @@ h2 {
   height: auto;
   transition: transform 0.3s ease;
   position: absolute;
+   filter: invert(100%)
 }
 
 /* Efeito ao passar o mouse nas imagens */
