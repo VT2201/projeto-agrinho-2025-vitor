@@ -307,11 +307,12 @@ p {
 @media (max-width: 768px) {
   .caixa-texto,
   .caixa-imagem {
+    width: 100%;
     flex-direction: column;
     align-items: center;
   }
 
-  .menu button {
+  .caixa-botao {
     display: block;
     width: 100%;
     margin-bottom: 10px;
