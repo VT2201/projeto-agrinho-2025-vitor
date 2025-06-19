@@ -305,7 +305,7 @@ p {
 
 /* Estilo responsivo para telas menores */
 @media (max-width: 768px) {
-  .caixa-texto,
+  .corpo-do-site,
   .caixa-imagem {
     width: 100%;
     flex-direction: column;
